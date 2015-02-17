@@ -1,5 +1,6 @@
 require 'sinatra'
 
+
 get '/' do
-	'hello!'
+	'hello! Sinatra walkthrough'
 end
